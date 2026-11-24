@@ -1,0 +1,332 @@
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                                [100%]
+=================================== FAILURES ===================================
+_ test_merges_reusing_nodes_and_left_first_on_ties[left_values0-right_values0] _
+tests/linked_lists/test_merge_sorted_lists.py:18: in test_merges_reusing_nodes_and_left_first_on_ties
+    head = merge_sorted_lists(left[0] if left else None, right[0] if right else None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/linked_lists/merge_sorted_lists.py:5: in merge_sorted_lists
+    raise NotImplementedError
+E   NotImplementedError
+_ test_merges_reusing_nodes_and_left_first_on_ties[left_values1-right_values1] _
+tests/linked_lists/test_merge_sorted_lists.py:18: in test_merges_reusing_nodes_and_left_first_on_ties
+    head = merge_sorted_lists(left[0] if left else None, right[0] if right else None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/linked_lists/merge_sorted_lists.py:5: in merge_sorted_lists
+    raise NotImplementedError
+E   NotImplementedError
+_ test_merges_reusing_nodes_and_left_first_on_ties[left_values2-right_values2] _
+tests/linked_lists/test_merge_sorted_lists.py:18: in test_merges_reusing_nodes_and_left_first_on_ties
+    head = merge_sorted_lists(left[0] if left else None, right[0] if right else None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/linked_lists/merge_sorted_lists.py:5: in merge_sorted_lists
+    raise NotImplementedError
+E   NotImplementedError
+_ test_merges_reusing_nodes_and_left_first_on_ties[left_values3-right_values3] _
+tests/linked_lists/test_merge_sorted_lists.py:18: in test_merges_reusing_nodes_and_left_first_on_ties
+    head = merge_sorted_lists(left[0] if left else None, right[0] if right else None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/linked_lists/merge_sorted_lists.py:5: in merge_sorted_lists
+    raise NotImplementedError
+E   NotImplementedError
+_ test_merges_reusing_nodes_and_left_first_on_ties[left_values4-right_values4] _
+tests/linked_lists/test_merge_sorted_lists.py:18: in test_merges_reusing_nodes_and_left_first_on_ties
+    head = merge_sorted_lists(left[0] if left else None, right[0] if right else None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/linked_lists/merge_sorted_lists.py:5: in merge_sorted_lists
+    raise NotImplementedError
+E   NotImplementedError
+_ test_merges_reusing_nodes_and_left_first_on_ties[left_values5-right_values5] _
+tests/linked_lists/test_merge_sorted_lists.py:18: in test_merges_reusing_nodes_and_left_first_on_ties
+    head = merge_sorted_lists(left[0] if left else None, right[0] if right else None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/linked_lists/merge_sorted_lists.py:5: in merge_sorted_lists
+    raise NotImplementedError
+E   NotImplementedError
+_____________ test_reverses_links_and_reuses_exact_nodes[values0] ______________
+tests/linked_lists/test_reverse_list.py:12: in test_reverses_links_and_reuses_exact_nodes
+    head = reverse_list(nodes[0] if nodes else None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/linked_lists/reverse_list.py:5: in reverse_list
+    raise NotImplementedError
+E   NotImplementedError
+_____________ test_reverses_links_and_reuses_exact_nodes[values1] ______________
+tests/linked_lists/test_reverse_list.py:12: in test_reverses_links_and_reuses_exact_nodes
+    head = reverse_list(nodes[0] if nodes else None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/linked_lists/reverse_list.py:5: in reverse_list
+    raise NotImplementedError
+E   NotImplementedError
+_____________ test_reverses_links_and_reuses_exact_nodes[values2] ______________
+tests/linked_lists/test_reverse_list.py:12: in test_reverses_links_and_reuses_exact_nodes
+    head = reverse_list(nodes[0] if nodes else None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/linked_lists/reverse_list.py:5: in reverse_list
+    raise NotImplementedError
+E   NotImplementedError
+_____________ test_reverses_links_and_reuses_exact_nodes[values3] ______________
+tests/linked_lists/test_reverse_list.py:12: in test_reverses_links_and_reuses_exact_nodes
+    head = reverse_list(nodes[0] if nodes else None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/linked_lists/reverse_list.py:5: in reverse_list
+    raise NotImplementedError
+E   NotImplementedError
+_____________ test_reverses_links_and_reuses_exact_nodes[values4] ______________
+tests/linked_lists/test_reverse_list.py:12: in test_reverses_links_and_reuses_exact_nodes
+    head = reverse_list(nodes[0] if nodes else None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/linked_lists/reverse_list.py:5: in reverse_list
+    raise NotImplementedError
+E   NotImplementedError
+__________________ test_reverse_twice_restores_original_links __________________
+tests/linked_lists/test_reverse_list.py:24: in test_reverse_twice_restores_original_links
+    assert reverse_list(reverse_list(head)) is head
+                        ^^^^^^^^^^^^^^^^^^
+src/python_dsa/linked_lists/reverse_list.py:5: in reverse_list
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args0-4] _____________________
+tests/binary_search/test_binary_search.py:21: in test_examples_and_boundaries
+    assert binary_search(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/binary_search/binary_search.py:5: in binary_search
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args1--1] ____________________
+tests/binary_search/test_binary_search.py:21: in test_examples_and_boundaries
+    assert binary_search(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/binary_search/binary_search.py:5: in binary_search
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args2--1] ____________________
+tests/binary_search/test_binary_search.py:21: in test_examples_and_boundaries
+    assert binary_search(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/binary_search/binary_search.py:5: in binary_search
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args3-0] _____________________
+tests/binary_search/test_binary_search.py:21: in test_examples_and_boundaries
+    assert binary_search(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/binary_search/binary_search.py:5: in binary_search
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args4-0] _____________________
+tests/binary_search/test_binary_search.py:21: in test_examples_and_boundaries
+    assert binary_search(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/binary_search/binary_search.py:5: in binary_search
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args5-2] _____________________
+tests/binary_search/test_binary_search.py:21: in test_examples_and_boundaries
+    assert binary_search(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/binary_search/binary_search.py:5: in binary_search
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args0-4] _____________________
+tests/binary_search/test_search_rotated.py:21: in test_examples_and_boundaries
+    assert search_rotated(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/binary_search/search_rotated.py:5: in search_rotated
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args1--1] ____________________
+tests/binary_search/test_search_rotated.py:21: in test_examples_and_boundaries
+    assert search_rotated(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/binary_search/search_rotated.py:5: in search_rotated
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args2--1] ____________________
+tests/binary_search/test_search_rotated.py:21: in test_examples_and_boundaries
+    assert search_rotated(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/binary_search/search_rotated.py:5: in search_rotated
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args3-0] _____________________
+tests/binary_search/test_search_rotated.py:21: in test_examples_and_boundaries
+    assert search_rotated(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/binary_search/search_rotated.py:5: in search_rotated
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args4-2] _____________________
+tests/binary_search/test_search_rotated.py:21: in test_examples_and_boundaries
+    assert search_rotated(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/binary_search/search_rotated.py:5: in search_rotated
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args5-1] _____________________
+tests/binary_search/test_search_rotated.py:21: in test_examples_and_boundaries
+    assert search_rotated(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/binary_search/search_rotated.py:5: in search_rotated
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_all_rotations_and_missing_targets ____________________
+tests/binary_search/test_search_rotated.py:32: in test_all_rotations_and_missing_targets
+    assert search_rotated(rotated, target) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/binary_search/search_rotated.py:5: in search_rotated
+    raise NotImplementedError
+E   NotImplementedError
+_______________________________ test_empty_tree ________________________________
+tests/trees/test_level_order.py:6: in test_empty_tree
+    assert level_order(None) == []
+           ^^^^^^^^^^^^^^^^^
+src/python_dsa/trees/level_order.py:5: in level_order
+    raise NotImplementedError
+E   NotImplementedError
+________________________________ test_singleton ________________________________
+tests/trees/test_level_order.py:10: in test_singleton
+    assert level_order(TreeNode(4)) == [[4]]
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/trees/level_order.py:5: in level_order
+    raise NotImplementedError
+E   NotImplementedError
+___________ test_sparse_tree_preserves_left_to_right_order_and_links ___________
+tests/trees/test_level_order.py:18: in test_sparse_tree_preserves_left_to_right_order_and_links
+    assert level_order(root) == [[3], [9, 20], [15, 7]]
+           ^^^^^^^^^^^^^^^^^
+src/python_dsa/trees/level_order.py:5: in level_order
+    raise NotImplementedError
+E   NotImplementedError
+________________________________ test_deep_tree ________________________________
+tests/trees/test_level_order.py:29: in test_deep_tree
+    assert level_order(root) == [[i] for i in range(2000)]
+           ^^^^^^^^^^^^^^^^^
+src/python_dsa/trees/level_order.py:5: in level_order
+    raise NotImplementedError
+E   NotImplementedError
+______________________________ test_depth[None-0] ______________________________
+tests/trees/test_maximum_depth.py:17: in test_depth
+    assert maximum_depth(root) == expected
+           ^^^^^^^^^^^^^^^^^^^
+src/python_dsa/trees/maximum_depth.py:5: in maximum_depth
+    raise NotImplementedError
+E   NotImplementedError
+_____________________________ test_depth[root1-1] ______________________________
+tests/trees/test_maximum_depth.py:17: in test_depth
+    assert maximum_depth(root) == expected
+           ^^^^^^^^^^^^^^^^^^^
+src/python_dsa/trees/maximum_depth.py:5: in maximum_depth
+    raise NotImplementedError
+E   NotImplementedError
+_____________________________ test_depth[root2-2] ______________________________
+tests/trees/test_maximum_depth.py:17: in test_depth
+    assert maximum_depth(root) == expected
+           ^^^^^^^^^^^^^^^^^^^
+src/python_dsa/trees/maximum_depth.py:5: in maximum_depth
+    raise NotImplementedError
+E   NotImplementedError
+_____________________________ test_depth[root3-3] ______________________________
+tests/trees/test_maximum_depth.py:17: in test_depth
+    assert maximum_depth(root) == expected
+           ^^^^^^^^^^^^^^^^^^^
+src/python_dsa/trees/maximum_depth.py:5: in maximum_depth
+    raise NotImplementedError
+E   NotImplementedError
+_________________ test_deep_tree_is_iterative_and_not_mutated __________________
+tests/trees/test_maximum_depth.py:26: in test_deep_tree_is_iterative_and_not_mutated
+    assert maximum_depth(root) == 2000
+           ^^^^^^^^^^^^^^^^^^^
+src/python_dsa/trees/maximum_depth.py:5: in maximum_depth
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_strict_global_ordering[None-True] ____________________
+tests/trees/test_validate_bst.py:19: in test_strict_global_ordering
+    assert validate_bst(root) is expected
+           ^^^^^^^^^^^^^^^^^^
+src/python_dsa/trees/validate_bst.py:5: in validate_bst
+    raise NotImplementedError
+E   NotImplementedError
+___________________ test_strict_global_ordering[root1-True] ____________________
+tests/trees/test_validate_bst.py:19: in test_strict_global_ordering
+    assert validate_bst(root) is expected
+           ^^^^^^^^^^^^^^^^^^
+src/python_dsa/trees/validate_bst.py:5: in validate_bst
+    raise NotImplementedError
+E   NotImplementedError
+___________________ test_strict_global_ordering[root2-True] ____________________
+tests/trees/test_validate_bst.py:19: in test_strict_global_ordering
+    assert validate_bst(root) is expected
+           ^^^^^^^^^^^^^^^^^^
+src/python_dsa/trees/validate_bst.py:5: in validate_bst
+    raise NotImplementedError
+E   NotImplementedError
+___________________ test_strict_global_ordering[root3-False] ___________________
+tests/trees/test_validate_bst.py:19: in test_strict_global_ordering
+    assert validate_bst(root) is expected
+           ^^^^^^^^^^^^^^^^^^
+src/python_dsa/trees/validate_bst.py:5: in validate_bst
+    raise NotImplementedError
+E   NotImplementedError
+___________________ test_strict_global_ordering[root4-False] ___________________
+tests/trees/test_validate_bst.py:19: in test_strict_global_ordering
+    assert validate_bst(root) is expected
+           ^^^^^^^^^^^^^^^^^^
+src/python_dsa/trees/validate_bst.py:5: in validate_bst
+    raise NotImplementedError
+E   NotImplementedError
+___________________ test_strict_global_ordering[root5-True] ____________________
+tests/trees/test_validate_bst.py:19: in test_strict_global_ordering
+    assert validate_bst(root) is expected
+           ^^^^^^^^^^^^^^^^^^
+src/python_dsa/trees/validate_bst.py:5: in validate_bst
+    raise NotImplementedError
+E   NotImplementedError
+______________________ test_deep_tree_and_preserved_links ______________________
+tests/trees/test_validate_bst.py:28: in test_deep_tree_and_preserved_links
+    assert validate_bst(root) is True
+           ^^^^^^^^^^^^^^^^^^
+src/python_dsa/trees/validate_bst.py:5: in validate_bst
+    raise NotImplementedError
+E   NotImplementedError
+=========================== short test summary info ============================
+FAILED tests/linked_lists/test_merge_sorted_lists.py::test_merges_reusing_nodes_and_left_first_on_ties[left_values0-right_values0]
+FAILED tests/linked_lists/test_merge_sorted_lists.py::test_merges_reusing_nodes_and_left_first_on_ties[left_values1-right_values1]
+FAILED tests/linked_lists/test_merge_sorted_lists.py::test_merges_reusing_nodes_and_left_first_on_ties[left_values2-right_values2]
+FAILED tests/linked_lists/test_merge_sorted_lists.py::test_merges_reusing_nodes_and_left_first_on_ties[left_values3-right_values3]
+FAILED tests/linked_lists/test_merge_sorted_lists.py::test_merges_reusing_nodes_and_left_first_on_ties[left_values4-right_values4]
+FAILED tests/linked_lists/test_merge_sorted_lists.py::test_merges_reusing_nodes_and_left_first_on_ties[left_values5-right_values5]
+FAILED tests/linked_lists/test_reverse_list.py::test_reverses_links_and_reuses_exact_nodes[values0]
+FAILED tests/linked_lists/test_reverse_list.py::test_reverses_links_and_reuses_exact_nodes[values1]
+FAILED tests/linked_lists/test_reverse_list.py::test_reverses_links_and_reuses_exact_nodes[values2]
+FAILED tests/linked_lists/test_reverse_list.py::test_reverses_links_and_reuses_exact_nodes[values3]
+FAILED tests/linked_lists/test_reverse_list.py::test_reverses_links_and_reuses_exact_nodes[values4]
+FAILED tests/linked_lists/test_reverse_list.py::test_reverse_twice_restores_original_links
+FAILED tests/binary_search/test_binary_search.py::test_examples_and_boundaries[args0-4]
+FAILED tests/binary_search/test_binary_search.py::test_examples_and_boundaries[args1--1]
+FAILED tests/binary_search/test_binary_search.py::test_examples_and_boundaries[args2--1]
+FAILED tests/binary_search/test_binary_search.py::test_examples_and_boundaries[args3-0]
+FAILED tests/binary_search/test_binary_search.py::test_examples_and_boundaries[args4-0]
+FAILED tests/binary_search/test_binary_search.py::test_examples_and_boundaries[args5-2]
+FAILED tests/binary_search/test_search_rotated.py::test_examples_and_boundaries[args0-4]
+FAILED tests/binary_search/test_search_rotated.py::test_examples_and_boundaries[args1--1]
+FAILED tests/binary_search/test_search_rotated.py::test_examples_and_boundaries[args2--1]
+FAILED tests/binary_search/test_search_rotated.py::test_examples_and_boundaries[args3-0]
+FAILED tests/binary_search/test_search_rotated.py::test_examples_and_boundaries[args4-2]
+FAILED tests/binary_search/test_search_rotated.py::test_examples_and_boundaries[args5-1]
+FAILED tests/binary_search/test_search_rotated.py::test_all_rotations_and_missing_targets
+FAILED tests/trees/test_level_order.py::test_empty_tree - NotImplementedError
+FAILED tests/trees/test_level_order.py::test_singleton - NotImplementedError
+FAILED tests/trees/test_level_order.py::test_sparse_tree_preserves_left_to_right_order_and_links
+FAILED tests/trees/test_level_order.py::test_deep_tree - NotImplementedError
+FAILED tests/trees/test_maximum_depth.py::test_depth[None-0] - NotImplemented...
+FAILED tests/trees/test_maximum_depth.py::test_depth[root1-1] - NotImplemente...
+FAILED tests/trees/test_maximum_depth.py::test_depth[root2-2] - NotImplemente...
+FAILED tests/trees/test_maximum_depth.py::test_depth[root3-3] - NotImplemente...
+FAILED tests/trees/test_maximum_depth.py::test_deep_tree_is_iterative_and_not_mutated
+FAILED tests/trees/test_validate_bst.py::test_strict_global_ordering[None-True]
+FAILED tests/trees/test_validate_bst.py::test_strict_global_ordering[root1-True]
+FAILED tests/trees/test_validate_bst.py::test_strict_global_ordering[root2-True]
+FAILED tests/trees/test_validate_bst.py::test_strict_global_ordering[root3-False]
+FAILED tests/trees/test_validate_bst.py::test_strict_global_ordering[root4-False]
+FAILED tests/trees/test_validate_bst.py::test_strict_global_ordering[root5-True]
+FAILED tests/trees/test_validate_bst.py::test_deep_tree_and_preserved_links
+41 failed in 0.10s
