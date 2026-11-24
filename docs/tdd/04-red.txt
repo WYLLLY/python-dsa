@@ -1,0 +1,540 @@
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF    [100%]
+=================================== FAILURES ===================================
+___________________ test_examples_and_boundaries[args0-True] ___________________
+tests/graphs/test_course_schedule.py:21: in test_examples_and_boundaries
+    assert course_schedule(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/graphs/course_schedule.py:5: in course_schedule
+    raise NotImplementedError
+E   NotImplementedError
+__________________ test_examples_and_boundaries[args1-False] ___________________
+tests/graphs/test_course_schedule.py:21: in test_examples_and_boundaries
+    assert course_schedule(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/graphs/course_schedule.py:5: in course_schedule
+    raise NotImplementedError
+E   NotImplementedError
+___________________ test_examples_and_boundaries[args2-True] ___________________
+tests/graphs/test_course_schedule.py:21: in test_examples_and_boundaries
+    assert course_schedule(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/graphs/course_schedule.py:5: in course_schedule
+    raise NotImplementedError
+E   NotImplementedError
+__________________ test_examples_and_boundaries[args3-False] ___________________
+tests/graphs/test_course_schedule.py:21: in test_examples_and_boundaries
+    assert course_schedule(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/graphs/course_schedule.py:5: in course_schedule
+    raise NotImplementedError
+E   NotImplementedError
+___________________ test_examples_and_boundaries[args4-True] ___________________
+tests/graphs/test_course_schedule.py:21: in test_examples_and_boundaries
+    assert course_schedule(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/graphs/course_schedule.py:5: in course_schedule
+    raise NotImplementedError
+E   NotImplementedError
+___________________ test_examples_and_boundaries[args5-True] ___________________
+tests/graphs/test_course_schedule.py:21: in test_examples_and_boundaries
+    assert course_schedule(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/graphs/course_schedule.py:5: in course_schedule
+    raise NotImplementedError
+E   NotImplementedError
+__________________________ test_invalid_input[args0] ___________________________
+tests/graphs/test_course_schedule.py:28: in test_invalid_input
+    course_schedule(*args)
+src/python_dsa/graphs/course_schedule.py:5: in course_schedule
+    raise NotImplementedError
+E   NotImplementedError
+__________________________ test_invalid_input[args1] ___________________________
+tests/graphs/test_course_schedule.py:28: in test_invalid_input
+    course_schedule(*args)
+src/python_dsa/graphs/course_schedule.py:5: in course_schedule
+    raise NotImplementedError
+E   NotImplementedError
+__________________________ test_invalid_input[args2] ___________________________
+tests/graphs/test_course_schedule.py:28: in test_invalid_input
+    course_schedule(*args)
+src/python_dsa/graphs/course_schedule.py:5: in course_schedule
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args0-3] _____________________
+tests/graphs/test_number_of_islands.py:21: in test_examples_and_boundaries
+    assert number_of_islands(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/graphs/number_of_islands.py:5: in number_of_islands
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args1-0] _____________________
+tests/graphs/test_number_of_islands.py:21: in test_examples_and_boundaries
+    assert number_of_islands(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/graphs/number_of_islands.py:5: in number_of_islands
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args2-0] _____________________
+tests/graphs/test_number_of_islands.py:21: in test_examples_and_boundaries
+    assert number_of_islands(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/graphs/number_of_islands.py:5: in number_of_islands
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args3-0] _____________________
+tests/graphs/test_number_of_islands.py:21: in test_examples_and_boundaries
+    assert number_of_islands(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/graphs/number_of_islands.py:5: in number_of_islands
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args4-1] _____________________
+tests/graphs/test_number_of_islands.py:21: in test_examples_and_boundaries
+    assert number_of_islands(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/graphs/number_of_islands.py:5: in number_of_islands
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args5-2] _____________________
+tests/graphs/test_number_of_islands.py:21: in test_examples_and_boundaries
+    assert number_of_islands(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/graphs/number_of_islands.py:5: in number_of_islands
+    raise NotImplementedError
+E   NotImplementedError
+__________________________ test_invalid_input[args0] ___________________________
+tests/graphs/test_number_of_islands.py:28: in test_invalid_input
+    number_of_islands(*args)
+src/python_dsa/graphs/number_of_islands.py:5: in number_of_islands
+    raise NotImplementedError
+E   NotImplementedError
+__________________________ test_invalid_input[args1] ___________________________
+tests/graphs/test_number_of_islands.py:28: in test_invalid_input
+    number_of_islands(*args)
+src/python_dsa/graphs/number_of_islands.py:5: in number_of_islands
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args0-5] _____________________
+tests/heaps/test_kth_largest.py:20: in test_examples_and_boundaries
+    assert kth_largest(*args) == expected
+           ^^^^^^^^^^^^^^^^^^
+src/python_dsa/heaps/kth_largest.py:5: in kth_largest
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args1-4] _____________________
+tests/heaps/test_kth_largest.py:20: in test_examples_and_boundaries
+    assert kth_largest(*args) == expected
+           ^^^^^^^^^^^^^^^^^^
+src/python_dsa/heaps/kth_largest.py:5: in kth_largest
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args2--4] ____________________
+tests/heaps/test_kth_largest.py:20: in test_examples_and_boundaries
+    assert kth_largest(*args) == expected
+           ^^^^^^^^^^^^^^^^^^
+src/python_dsa/heaps/kth_largest.py:5: in kth_largest
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args3-1] _____________________
+tests/heaps/test_kth_largest.py:20: in test_examples_and_boundaries
+    assert kth_largest(*args) == expected
+           ^^^^^^^^^^^^^^^^^^
+src/python_dsa/heaps/kth_largest.py:5: in kth_largest
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args4-2] _____________________
+tests/heaps/test_kth_largest.py:20: in test_examples_and_boundaries
+    assert kth_largest(*args) == expected
+           ^^^^^^^^^^^^^^^^^^
+src/python_dsa/heaps/kth_largest.py:5: in kth_largest
+    raise NotImplementedError
+E   NotImplementedError
+__________________________ test_invalid_input[args0] ___________________________
+tests/heaps/test_kth_largest.py:27: in test_invalid_input
+    kth_largest(*args)
+src/python_dsa/heaps/kth_largest.py:5: in kth_largest
+    raise NotImplementedError
+E   NotImplementedError
+__________________________ test_invalid_input[args1] ___________________________
+tests/heaps/test_kth_largest.py:27: in test_invalid_input
+    kth_largest(*args)
+src/python_dsa/heaps/kth_largest.py:5: in kth_largest
+    raise NotImplementedError
+E   NotImplementedError
+__________________________ test_invalid_input[args2] ___________________________
+tests/heaps/test_kth_largest.py:27: in test_invalid_input
+    kth_largest(*args)
+src/python_dsa/heaps/kth_largest.py:5: in kth_largest
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args0-expected0] _________________
+tests/heaps/test_top_k_frequent.py:20: in test_examples_and_boundaries
+    assert top_k_frequent(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/heaps/top_k_frequent.py:5: in top_k_frequent
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args1-expected1] _________________
+tests/heaps/test_top_k_frequent.py:20: in test_examples_and_boundaries
+    assert top_k_frequent(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/heaps/top_k_frequent.py:5: in top_k_frequent
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args2-expected2] _________________
+tests/heaps/test_top_k_frequent.py:20: in test_examples_and_boundaries
+    assert top_k_frequent(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/heaps/top_k_frequent.py:5: in top_k_frequent
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args3-expected3] _________________
+tests/heaps/test_top_k_frequent.py:20: in test_examples_and_boundaries
+    assert top_k_frequent(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/heaps/top_k_frequent.py:5: in top_k_frequent
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args4-expected4] _________________
+tests/heaps/test_top_k_frequent.py:20: in test_examples_and_boundaries
+    assert top_k_frequent(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/heaps/top_k_frequent.py:5: in top_k_frequent
+    raise NotImplementedError
+E   NotImplementedError
+__________________________ test_invalid_input[args0] ___________________________
+tests/heaps/test_top_k_frequent.py:27: in test_invalid_input
+    top_k_frequent(*args)
+src/python_dsa/heaps/top_k_frequent.py:5: in top_k_frequent
+    raise NotImplementedError
+E   NotImplementedError
+__________________________ test_invalid_input[args1] ___________________________
+tests/heaps/test_top_k_frequent.py:27: in test_invalid_input
+    top_k_frequent(*args)
+src/python_dsa/heaps/top_k_frequent.py:5: in top_k_frequent
+    raise NotImplementedError
+E   NotImplementedError
+___________________ test_examples_and_boundaries[args0-True] ___________________
+tests/greedy/test_jump_game.py:21: in test_examples_and_boundaries
+    assert jump_game(*args) == expected
+           ^^^^^^^^^^^^^^^^
+src/python_dsa/greedy/jump_game.py:5: in jump_game
+    raise NotImplementedError
+E   NotImplementedError
+__________________ test_examples_and_boundaries[args1-False] ___________________
+tests/greedy/test_jump_game.py:21: in test_examples_and_boundaries
+    assert jump_game(*args) == expected
+           ^^^^^^^^^^^^^^^^
+src/python_dsa/greedy/jump_game.py:5: in jump_game
+    raise NotImplementedError
+E   NotImplementedError
+__________________ test_examples_and_boundaries[args2-False] ___________________
+tests/greedy/test_jump_game.py:21: in test_examples_and_boundaries
+    assert jump_game(*args) == expected
+           ^^^^^^^^^^^^^^^^
+src/python_dsa/greedy/jump_game.py:5: in jump_game
+    raise NotImplementedError
+E   NotImplementedError
+___________________ test_examples_and_boundaries[args3-True] ___________________
+tests/greedy/test_jump_game.py:21: in test_examples_and_boundaries
+    assert jump_game(*args) == expected
+           ^^^^^^^^^^^^^^^^
+src/python_dsa/greedy/jump_game.py:5: in jump_game
+    raise NotImplementedError
+E   NotImplementedError
+___________________ test_examples_and_boundaries[args4-True] ___________________
+tests/greedy/test_jump_game.py:21: in test_examples_and_boundaries
+    assert jump_game(*args) == expected
+           ^^^^^^^^^^^^^^^^
+src/python_dsa/greedy/jump_game.py:5: in jump_game
+    raise NotImplementedError
+E   NotImplementedError
+__________________ test_examples_and_boundaries[args5-False] ___________________
+tests/greedy/test_jump_game.py:21: in test_examples_and_boundaries
+    assert jump_game(*args) == expected
+           ^^^^^^^^^^^^^^^^
+src/python_dsa/greedy/jump_game.py:5: in jump_game
+    raise NotImplementedError
+E   NotImplementedError
+__________________________ test_invalid_input[args0] ___________________________
+tests/greedy/test_jump_game.py:28: in test_invalid_input
+    jump_game(*args)
+src/python_dsa/greedy/jump_game.py:5: in jump_game
+    raise NotImplementedError
+E   NotImplementedError
+_______________________ test_matches_reachability_oracle _______________________
+tests/greedy/test_jump_game.py:40: in test_matches_reachability_oracle
+    assert jump_game(list(jumps)) == (size - 1 in reachable)
+           ^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/greedy/jump_game.py:5: in jump_game
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args0-expected0] _________________
+tests/greedy/test_merge_intervals.py:20: in test_examples_and_boundaries
+    assert merge_intervals(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/greedy/merge_intervals.py:5: in merge_intervals
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args1-expected1] _________________
+tests/greedy/test_merge_intervals.py:20: in test_examples_and_boundaries
+    assert merge_intervals(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/greedy/merge_intervals.py:5: in merge_intervals
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args2-expected2] _________________
+tests/greedy/test_merge_intervals.py:20: in test_examples_and_boundaries
+    assert merge_intervals(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/greedy/merge_intervals.py:5: in merge_intervals
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args3-expected3] _________________
+tests/greedy/test_merge_intervals.py:20: in test_examples_and_boundaries
+    assert merge_intervals(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/greedy/merge_intervals.py:5: in merge_intervals
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args4-expected4] _________________
+tests/greedy/test_merge_intervals.py:20: in test_examples_and_boundaries
+    assert merge_intervals(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/greedy/merge_intervals.py:5: in merge_intervals
+    raise NotImplementedError
+E   NotImplementedError
+__________________________ test_invalid_input[args0] ___________________________
+tests/greedy/test_merge_intervals.py:27: in test_invalid_input
+    merge_intervals(*args)
+src/python_dsa/greedy/merge_intervals.py:5: in merge_intervals
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args0-1] _____________________
+tests/dynamic_programming/test_climbing_stairs.py:13: in test_examples_and_boundaries
+    assert climbing_stairs(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/dynamic_programming/climbing_stairs.py:5: in climbing_stairs
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args1-1] _____________________
+tests/dynamic_programming/test_climbing_stairs.py:13: in test_examples_and_boundaries
+    assert climbing_stairs(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/dynamic_programming/climbing_stairs.py:5: in climbing_stairs
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args2-2] _____________________
+tests/dynamic_programming/test_climbing_stairs.py:13: in test_examples_and_boundaries
+    assert climbing_stairs(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/dynamic_programming/climbing_stairs.py:5: in climbing_stairs
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args3-8] _____________________
+tests/dynamic_programming/test_climbing_stairs.py:13: in test_examples_and_boundaries
+    assert climbing_stairs(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/dynamic_programming/climbing_stairs.py:5: in climbing_stairs
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args4-89] ____________________
+tests/dynamic_programming/test_climbing_stairs.py:13: in test_examples_and_boundaries
+    assert climbing_stairs(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/dynamic_programming/climbing_stairs.py:5: in climbing_stairs
+    raise NotImplementedError
+E   NotImplementedError
+__________________________ test_invalid_input[args0] ___________________________
+tests/dynamic_programming/test_climbing_stairs.py:20: in test_invalid_input
+    climbing_stairs(*args)
+src/python_dsa/dynamic_programming/climbing_stairs.py:5: in climbing_stairs
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args0-3] _____________________
+tests/dynamic_programming/test_coin_change.py:21: in test_examples_and_boundaries
+    assert coin_change(*args) == expected
+           ^^^^^^^^^^^^^^^^^^
+src/python_dsa/dynamic_programming/coin_change.py:5: in coin_change
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args1--1] ____________________
+tests/dynamic_programming/test_coin_change.py:21: in test_examples_and_boundaries
+    assert coin_change(*args) == expected
+           ^^^^^^^^^^^^^^^^^^
+src/python_dsa/dynamic_programming/coin_change.py:5: in coin_change
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args2-0] _____________________
+tests/dynamic_programming/test_coin_change.py:21: in test_examples_and_boundaries
+    assert coin_change(*args) == expected
+           ^^^^^^^^^^^^^^^^^^
+src/python_dsa/dynamic_programming/coin_change.py:5: in coin_change
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args3--1] ____________________
+tests/dynamic_programming/test_coin_change.py:21: in test_examples_and_boundaries
+    assert coin_change(*args) == expected
+           ^^^^^^^^^^^^^^^^^^
+src/python_dsa/dynamic_programming/coin_change.py:5: in coin_change
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args4-3] _____________________
+tests/dynamic_programming/test_coin_change.py:21: in test_examples_and_boundaries
+    assert coin_change(*args) == expected
+           ^^^^^^^^^^^^^^^^^^
+src/python_dsa/dynamic_programming/coin_change.py:5: in coin_change
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args5-2] _____________________
+tests/dynamic_programming/test_coin_change.py:21: in test_examples_and_boundaries
+    assert coin_change(*args) == expected
+           ^^^^^^^^^^^^^^^^^^
+src/python_dsa/dynamic_programming/coin_change.py:5: in coin_change
+    raise NotImplementedError
+E   NotImplementedError
+__________________________ test_invalid_input[args0] ___________________________
+tests/dynamic_programming/test_coin_change.py:28: in test_invalid_input
+    coin_change(*args)
+src/python_dsa/dynamic_programming/coin_change.py:5: in coin_change
+    raise NotImplementedError
+E   NotImplementedError
+__________________________ test_invalid_input[args1] ___________________________
+tests/dynamic_programming/test_coin_change.py:28: in test_invalid_input
+    coin_change(*args)
+src/python_dsa/dynamic_programming/coin_change.py:5: in coin_change
+    raise NotImplementedError
+E   NotImplementedError
+__________________________ test_invalid_input[args2] ___________________________
+tests/dynamic_programming/test_coin_change.py:28: in test_invalid_input
+    coin_change(*args)
+src/python_dsa/dynamic_programming/coin_change.py:5: in coin_change
+    raise NotImplementedError
+E   NotImplementedError
+______________________ test_matches_breadth_first_oracle _______________________
+tests/dynamic_programming/test_coin_change.py:51: in test_matches_breadth_first_oracle
+    assert coin_change(list(coins), amount) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/dynamic_programming/coin_change.py:5: in coin_change
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args0-4] _____________________
+tests/dynamic_programming/test_longest_increasing_subsequence.py:23: in test_examples_and_boundaries
+    assert longest_increasing_subsequence(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/dynamic_programming/longest_increasing_subsequence.py:5: in longest_increasing_subsequence
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args1-0] _____________________
+tests/dynamic_programming/test_longest_increasing_subsequence.py:23: in test_examples_and_boundaries
+    assert longest_increasing_subsequence(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/dynamic_programming/longest_increasing_subsequence.py:5: in longest_increasing_subsequence
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args2-1] _____________________
+tests/dynamic_programming/test_longest_increasing_subsequence.py:23: in test_examples_and_boundaries
+    assert longest_increasing_subsequence(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/dynamic_programming/longest_increasing_subsequence.py:5: in longest_increasing_subsequence
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args3-1] _____________________
+tests/dynamic_programming/test_longest_increasing_subsequence.py:23: in test_examples_and_boundaries
+    assert longest_increasing_subsequence(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/dynamic_programming/longest_increasing_subsequence.py:5: in longest_increasing_subsequence
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args4-3] _____________________
+tests/dynamic_programming/test_longest_increasing_subsequence.py:23: in test_examples_and_boundaries
+    assert longest_increasing_subsequence(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/dynamic_programming/longest_increasing_subsequence.py:5: in longest_increasing_subsequence
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args5-4] _____________________
+tests/dynamic_programming/test_longest_increasing_subsequence.py:23: in test_examples_and_boundaries
+    assert longest_increasing_subsequence(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/dynamic_programming/longest_increasing_subsequence.py:5: in longest_increasing_subsequence
+    raise NotImplementedError
+E   NotImplementedError
+_____________________ test_matches_subsequence_enumeration _____________________
+tests/dynamic_programming/test_longest_increasing_subsequence.py:41: in test_matches_subsequence_enumeration
+    assert longest_increasing_subsequence(list(values)) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/dynamic_programming/longest_increasing_subsequence.py:5: in longest_increasing_subsequence
+    raise NotImplementedError
+E   NotImplementedError
+=========================== short test summary info ============================
+FAILED tests/graphs/test_course_schedule.py::test_examples_and_boundaries[args0-True]
+FAILED tests/graphs/test_course_schedule.py::test_examples_and_boundaries[args1-False]
+FAILED tests/graphs/test_course_schedule.py::test_examples_and_boundaries[args2-True]
+FAILED tests/graphs/test_course_schedule.py::test_examples_and_boundaries[args3-False]
+FAILED tests/graphs/test_course_schedule.py::test_examples_and_boundaries[args4-True]
+FAILED tests/graphs/test_course_schedule.py::test_examples_and_boundaries[args5-True]
+FAILED tests/graphs/test_course_schedule.py::test_invalid_input[args0] - NotI...
+FAILED tests/graphs/test_course_schedule.py::test_invalid_input[args1] - NotI...
+FAILED tests/graphs/test_course_schedule.py::test_invalid_input[args2] - NotI...
+FAILED tests/graphs/test_number_of_islands.py::test_examples_and_boundaries[args0-3]
+FAILED tests/graphs/test_number_of_islands.py::test_examples_and_boundaries[args1-0]
+FAILED tests/graphs/test_number_of_islands.py::test_examples_and_boundaries[args2-0]
+FAILED tests/graphs/test_number_of_islands.py::test_examples_and_boundaries[args3-0]
+FAILED tests/graphs/test_number_of_islands.py::test_examples_and_boundaries[args4-1]
+FAILED tests/graphs/test_number_of_islands.py::test_examples_and_boundaries[args5-2]
+FAILED tests/graphs/test_number_of_islands.py::test_invalid_input[args0] - No...
+FAILED tests/graphs/test_number_of_islands.py::test_invalid_input[args1] - No...
+FAILED tests/heaps/test_kth_largest.py::test_examples_and_boundaries[args0-5]
+FAILED tests/heaps/test_kth_largest.py::test_examples_and_boundaries[args1-4]
+FAILED tests/heaps/test_kth_largest.py::test_examples_and_boundaries[args2--4]
+FAILED tests/heaps/test_kth_largest.py::test_examples_and_boundaries[args3-1]
+FAILED tests/heaps/test_kth_largest.py::test_examples_and_boundaries[args4-2]
+FAILED tests/heaps/test_kth_largest.py::test_invalid_input[args0] - NotImplem...
+FAILED tests/heaps/test_kth_largest.py::test_invalid_input[args1] - NotImplem...
+FAILED tests/heaps/test_kth_largest.py::test_invalid_input[args2] - NotImplem...
+FAILED tests/heaps/test_top_k_frequent.py::test_examples_and_boundaries[args0-expected0]
+FAILED tests/heaps/test_top_k_frequent.py::test_examples_and_boundaries[args1-expected1]
+FAILED tests/heaps/test_top_k_frequent.py::test_examples_and_boundaries[args2-expected2]
+FAILED tests/heaps/test_top_k_frequent.py::test_examples_and_boundaries[args3-expected3]
+FAILED tests/heaps/test_top_k_frequent.py::test_examples_and_boundaries[args4-expected4]
+FAILED tests/heaps/test_top_k_frequent.py::test_invalid_input[args0] - NotImp...
+FAILED tests/heaps/test_top_k_frequent.py::test_invalid_input[args1] - NotImp...
+FAILED tests/greedy/test_jump_game.py::test_examples_and_boundaries[args0-True]
+FAILED tests/greedy/test_jump_game.py::test_examples_and_boundaries[args1-False]
+FAILED tests/greedy/test_jump_game.py::test_examples_and_boundaries[args2-False]
+FAILED tests/greedy/test_jump_game.py::test_examples_and_boundaries[args3-True]
+FAILED tests/greedy/test_jump_game.py::test_examples_and_boundaries[args4-True]
+FAILED tests/greedy/test_jump_game.py::test_examples_and_boundaries[args5-False]
+FAILED tests/greedy/test_jump_game.py::test_invalid_input[args0] - NotImpleme...
+FAILED tests/greedy/test_jump_game.py::test_matches_reachability_oracle - Not...
+FAILED tests/greedy/test_merge_intervals.py::test_examples_and_boundaries[args0-expected0]
+FAILED tests/greedy/test_merge_intervals.py::test_examples_and_boundaries[args1-expected1]
+FAILED tests/greedy/test_merge_intervals.py::test_examples_and_boundaries[args2-expected2]
+FAILED tests/greedy/test_merge_intervals.py::test_examples_and_boundaries[args3-expected3]
+FAILED tests/greedy/test_merge_intervals.py::test_examples_and_boundaries[args4-expected4]
+FAILED tests/greedy/test_merge_intervals.py::test_invalid_input[args0] - NotI...
+FAILED tests/dynamic_programming/test_climbing_stairs.py::test_examples_and_boundaries[args0-1]
+FAILED tests/dynamic_programming/test_climbing_stairs.py::test_examples_and_boundaries[args1-1]
+FAILED tests/dynamic_programming/test_climbing_stairs.py::test_examples_and_boundaries[args2-2]
+FAILED tests/dynamic_programming/test_climbing_stairs.py::test_examples_and_boundaries[args3-8]
+FAILED tests/dynamic_programming/test_climbing_stairs.py::test_examples_and_boundaries[args4-89]
+FAILED tests/dynamic_programming/test_climbing_stairs.py::test_invalid_input[args0]
+FAILED tests/dynamic_programming/test_coin_change.py::test_examples_and_boundaries[args0-3]
+FAILED tests/dynamic_programming/test_coin_change.py::test_examples_and_boundaries[args1--1]
+FAILED tests/dynamic_programming/test_coin_change.py::test_examples_and_boundaries[args2-0]
+FAILED tests/dynamic_programming/test_coin_change.py::test_examples_and_boundaries[args3--1]
+FAILED tests/dynamic_programming/test_coin_change.py::test_examples_and_boundaries[args4-3]
+FAILED tests/dynamic_programming/test_coin_change.py::test_examples_and_boundaries[args5-2]
+FAILED tests/dynamic_programming/test_coin_change.py::test_invalid_input[args0]
+FAILED tests/dynamic_programming/test_coin_change.py::test_invalid_input[args1]
+FAILED tests/dynamic_programming/test_coin_change.py::test_invalid_input[args2]
+FAILED tests/dynamic_programming/test_coin_change.py::test_matches_breadth_first_oracle
+FAILED tests/dynamic_programming/test_longest_increasing_subsequence.py::test_examples_and_boundaries[args0-4]
+FAILED tests/dynamic_programming/test_longest_increasing_subsequence.py::test_examples_and_boundaries[args1-0]
+FAILED tests/dynamic_programming/test_longest_increasing_subsequence.py::test_examples_and_boundaries[args2-1]
+FAILED tests/dynamic_programming/test_longest_increasing_subsequence.py::test_examples_and_boundaries[args3-1]
+FAILED tests/dynamic_programming/test_longest_increasing_subsequence.py::test_examples_and_boundaries[args4-3]
+FAILED tests/dynamic_programming/test_longest_increasing_subsequence.py::test_examples_and_boundaries[args5-4]
+FAILED tests/dynamic_programming/test_longest_increasing_subsequence.py::test_matches_subsequence_enumeration
+69 failed in 0.14s
