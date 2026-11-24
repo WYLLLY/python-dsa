@@ -46,7 +46,7 @@ explicitly documented (the linked-list exercises reuse nodes).
 Difficulty labels follow the linked canonical problems; this repository defines
 its own explicit contracts, which can differ on empty and invalid inputs.
 
-**Implementation progress: 21/30** — 9 Easy, 17 Medium, 4 Hard.
+**Implementation progress: 30/30** — 9 Easy, 17 Medium, 4 Hard.
 
 ## Problem index
 
@@ -73,15 +73,15 @@ its own explicit contracts, which can differ on empty and invalid inputs.
 | 19 | [Maximum Tree Depth](problems/trees/maximum_depth.md) | Trees | Easy | Complete |
 | 20 | [Validate Binary Search Tree](problems/trees/validate_bst.md) | Trees | Medium | Complete |
 | 21 | [Binary Tree Level Order](problems/trees/level_order.md) | Trees | Medium | Complete |
-| 22 | [Number of Islands](problems/graphs/number_of_islands.md) | Graphs | Medium | Planned |
-| 23 | [Course Schedule](problems/graphs/course_schedule.md) | Graphs | Medium | Planned |
-| 24 | [Kth Largest Element](problems/heaps/kth_largest.md) | Heaps | Medium | Planned |
-| 25 | [Top K Frequent Elements](problems/heaps/top_k_frequent.md) | Heaps | Medium | Planned |
-| 26 | [Jump Game](problems/greedy/jump_game.md) | Greedy | Medium | Planned |
-| 27 | [Merge Intervals](problems/greedy/merge_intervals.md) | Greedy | Medium | Planned |
-| 28 | [Climbing Stairs](problems/dynamic_programming/climbing_stairs.md) | Dynamic Programming | Easy | Planned |
-| 29 | [Coin Change](problems/dynamic_programming/coin_change.md) | Dynamic Programming | Medium | Planned |
-| 30 | [Longest Increasing Subsequence](problems/dynamic_programming/longest_increasing_subsequence.md) | Dynamic Programming | Medium | Planned |
+| 22 | [Number of Islands](problems/graphs/number_of_islands.md) | Graphs | Medium | Complete |
+| 23 | [Course Schedule](problems/graphs/course_schedule.md) | Graphs | Medium | Complete |
+| 24 | [Kth Largest Element](problems/heaps/kth_largest.md) | Heaps | Medium | Complete |
+| 25 | [Top K Frequent Elements](problems/heaps/top_k_frequent.md) | Heaps | Medium | Complete |
+| 26 | [Jump Game](problems/greedy/jump_game.md) | Greedy | Medium | Complete |
+| 27 | [Merge Intervals](problems/greedy/merge_intervals.md) | Greedy | Medium | Complete |
+| 28 | [Climbing Stairs](problems/dynamic_programming/climbing_stairs.md) | Dynamic Programming | Easy | Complete |
+| 29 | [Coin Change](problems/dynamic_programming/coin_change.md) | Dynamic Programming | Medium | Complete |
+| 30 | [Longest Increasing Subsequence](problems/dynamic_programming/longest_increasing_subsequence.md) | Dynamic Programming | Medium | Complete |
 
 ## Repository layout
 
