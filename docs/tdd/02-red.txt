@@ -1,0 +1,359 @@
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                            [100%]
+=================================== FAILURES ===================================
+____________________ test_examples_and_boundaries[args0-3] _____________________
+tests/sliding_window/test_longest_unique_substring.py:21: in test_examples_and_boundaries
+    assert longest_unique_substring(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/sliding_window/longest_unique_substring.py:5: in longest_unique_substring
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args1-1] _____________________
+tests/sliding_window/test_longest_unique_substring.py:21: in test_examples_and_boundaries
+    assert longest_unique_substring(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/sliding_window/longest_unique_substring.py:5: in longest_unique_substring
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args2-0] _____________________
+tests/sliding_window/test_longest_unique_substring.py:21: in test_examples_and_boundaries
+    assert longest_unique_substring(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/sliding_window/longest_unique_substring.py:5: in longest_unique_substring
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args3-2] _____________________
+tests/sliding_window/test_longest_unique_substring.py:21: in test_examples_and_boundaries
+    assert longest_unique_substring(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/sliding_window/longest_unique_substring.py:5: in longest_unique_substring
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args4-3] _____________________
+tests/sliding_window/test_longest_unique_substring.py:21: in test_examples_and_boundaries
+    assert longest_unique_substring(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/sliding_window/longest_unique_substring.py:5: in longest_unique_substring
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args5-3] _____________________
+tests/sliding_window/test_longest_unique_substring.py:21: in test_examples_and_boundaries
+    assert longest_unique_substring(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/sliding_window/longest_unique_substring.py:5: in longest_unique_substring
+    raise NotImplementedError
+E   NotImplementedError
+___________________ test_examples_and_boundaries[args0-BANC] ___________________
+tests/sliding_window/test_minimum_window_substring.py:22: in test_examples_and_boundaries
+    assert minimum_window_substring(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/sliding_window/minimum_window_substring.py:5: in minimum_window_substring
+    raise NotImplementedError
+E   NotImplementedError
+_____________________ test_examples_and_boundaries[args1-] _____________________
+tests/sliding_window/test_minimum_window_substring.py:22: in test_examples_and_boundaries
+    assert minimum_window_substring(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/sliding_window/minimum_window_substring.py:5: in minimum_window_substring
+    raise NotImplementedError
+E   NotImplementedError
+_____________________ test_examples_and_boundaries[args2-] _____________________
+tests/sliding_window/test_minimum_window_substring.py:22: in test_examples_and_boundaries
+    assert minimum_window_substring(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/sliding_window/minimum_window_substring.py:5: in minimum_window_substring
+    raise NotImplementedError
+E   NotImplementedError
+_____________________ test_examples_and_boundaries[args3-] _____________________
+tests/sliding_window/test_minimum_window_substring.py:22: in test_examples_and_boundaries
+    assert minimum_window_substring(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/sliding_window/minimum_window_substring.py:5: in minimum_window_substring
+    raise NotImplementedError
+E   NotImplementedError
+___________________ test_examples_and_boundaries[args4-aab] ____________________
+tests/sliding_window/test_minimum_window_substring.py:22: in test_examples_and_boundaries
+    assert minimum_window_substring(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/sliding_window/minimum_window_substring.py:5: in minimum_window_substring
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args5-ab] ____________________
+tests/sliding_window/test_minimum_window_substring.py:22: in test_examples_and_boundaries
+    assert minimum_window_substring(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/sliding_window/minimum_window_substring.py:5: in minimum_window_substring
+    raise NotImplementedError
+E   NotImplementedError
+______________ test_examples_and_boundaries[args6-\xe9\U0001f642] ______________
+tests/sliding_window/test_minimum_window_substring.py:22: in test_examples_and_boundaries
+    assert minimum_window_substring(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/sliding_window/minimum_window_substring.py:5: in minimum_window_substring
+    raise NotImplementedError
+E   NotImplementedError
+___________________________ test_matches_brute_force ___________________________
+tests/sliding_window/test_minimum_window_substring.py:41: in test_matches_brute_force
+    assert minimum_window_substring(text, required) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/sliding_window/minimum_window_substring.py:5: in minimum_window_substring
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args0-expected0] _________________
+tests/sliding_window/test_sliding_window_maximum.py:20: in test_examples_and_boundaries
+    assert sliding_window_maximum(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/sliding_window/sliding_window_maximum.py:5: in sliding_window_maximum
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args1-expected1] _________________
+tests/sliding_window/test_sliding_window_maximum.py:20: in test_examples_and_boundaries
+    assert sliding_window_maximum(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/sliding_window/sliding_window_maximum.py:5: in sliding_window_maximum
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args2-expected2] _________________
+tests/sliding_window/test_sliding_window_maximum.py:20: in test_examples_and_boundaries
+    assert sliding_window_maximum(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/sliding_window/sliding_window_maximum.py:5: in sliding_window_maximum
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args3-expected3] _________________
+tests/sliding_window/test_sliding_window_maximum.py:20: in test_examples_and_boundaries
+    assert sliding_window_maximum(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/sliding_window/sliding_window_maximum.py:5: in sliding_window_maximum
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args4-expected4] _________________
+tests/sliding_window/test_sliding_window_maximum.py:20: in test_examples_and_boundaries
+    assert sliding_window_maximum(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/sliding_window/sliding_window_maximum.py:5: in sliding_window_maximum
+    raise NotImplementedError
+E   NotImplementedError
+__________________________ test_invalid_input[args0] ___________________________
+tests/sliding_window/test_sliding_window_maximum.py:27: in test_invalid_input
+    sliding_window_maximum(*args)
+src/python_dsa/sliding_window/sliding_window_maximum.py:5: in sliding_window_maximum
+    raise NotImplementedError
+E   NotImplementedError
+__________________________ test_invalid_input[args1] ___________________________
+tests/sliding_window/test_sliding_window_maximum.py:27: in test_invalid_input
+    sliding_window_maximum(*args)
+src/python_dsa/sliding_window/sliding_window_maximum.py:5: in sliding_window_maximum
+    raise NotImplementedError
+E   NotImplementedError
+__________________________ test_invalid_input[args2] ___________________________
+tests/sliding_window/test_sliding_window_maximum.py:27: in test_invalid_input
+    sliding_window_maximum(*args)
+src/python_dsa/sliding_window/sliding_window_maximum.py:5: in sliding_window_maximum
+    raise NotImplementedError
+E   NotImplementedError
+__________________________ test_invalid_input[args3] ___________________________
+tests/sliding_window/test_sliding_window_maximum.py:27: in test_invalid_input
+    sliding_window_maximum(*args)
+src/python_dsa/sliding_window/sliding_window_maximum.py:5: in sliding_window_maximum
+    raise NotImplementedError
+E   NotImplementedError
+___________________________ test_matches_brute_force ___________________________
+tests/sliding_window/test_sliding_window_maximum.py:37: in test_matches_brute_force
+    assert sliding_window_maximum(list(values), k) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/sliding_window/sliding_window_maximum.py:5: in sliding_window_maximum
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args0-expected0] _________________
+tests/stack/test_daily_temperatures.py:20: in test_examples_and_boundaries
+    assert daily_temperatures(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/stack/daily_temperatures.py:5: in daily_temperatures
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args1-expected1] _________________
+tests/stack/test_daily_temperatures.py:20: in test_examples_and_boundaries
+    assert daily_temperatures(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/stack/daily_temperatures.py:5: in daily_temperatures
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args2-expected2] _________________
+tests/stack/test_daily_temperatures.py:20: in test_examples_and_boundaries
+    assert daily_temperatures(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/stack/daily_temperatures.py:5: in daily_temperatures
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args3-expected3] _________________
+tests/stack/test_daily_temperatures.py:20: in test_examples_and_boundaries
+    assert daily_temperatures(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/stack/daily_temperatures.py:5: in daily_temperatures
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args4-expected4] _________________
+tests/stack/test_daily_temperatures.py:20: in test_examples_and_boundaries
+    assert daily_temperatures(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/stack/daily_temperatures.py:5: in daily_temperatures
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args0-10] ____________________
+tests/stack/test_largest_rectangle.py:21: in test_examples_and_boundaries
+    assert largest_rectangle(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/stack/largest_rectangle.py:5: in largest_rectangle
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args1-0] _____________________
+tests/stack/test_largest_rectangle.py:21: in test_examples_and_boundaries
+    assert largest_rectangle(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/stack/largest_rectangle.py:5: in largest_rectangle
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args2-4] _____________________
+tests/stack/test_largest_rectangle.py:21: in test_examples_and_boundaries
+    assert largest_rectangle(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/stack/largest_rectangle.py:5: in largest_rectangle
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args3-6] _____________________
+tests/stack/test_largest_rectangle.py:21: in test_examples_and_boundaries
+    assert largest_rectangle(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/stack/largest_rectangle.py:5: in largest_rectangle
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args4-6] _____________________
+tests/stack/test_largest_rectangle.py:21: in test_examples_and_boundaries
+    assert largest_rectangle(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/stack/largest_rectangle.py:5: in largest_rectangle
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args5-0] _____________________
+tests/stack/test_largest_rectangle.py:21: in test_examples_and_boundaries
+    assert largest_rectangle(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/stack/largest_rectangle.py:5: in largest_rectangle
+    raise NotImplementedError
+E   NotImplementedError
+__________________________ test_invalid_input[args0] ___________________________
+tests/stack/test_largest_rectangle.py:28: in test_invalid_input
+    largest_rectangle(*args)
+src/python_dsa/stack/largest_rectangle.py:5: in largest_rectangle
+    raise NotImplementedError
+E   NotImplementedError
+___________________________ test_matches_brute_force ___________________________
+tests/stack/test_largest_rectangle.py:40: in test_matches_brute_force
+    assert largest_rectangle(list(values)) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/stack/largest_rectangle.py:5: in largest_rectangle
+    raise NotImplementedError
+E   NotImplementedError
+___________________ test_examples_and_boundaries[args0-True] ___________________
+tests/stack/test_valid_parentheses.py:23: in test_examples_and_boundaries
+    assert valid_parentheses(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/stack/valid_parentheses.py:5: in valid_parentheses
+    raise NotImplementedError
+E   NotImplementedError
+___________________ test_examples_and_boundaries[args1-True] ___________________
+tests/stack/test_valid_parentheses.py:23: in test_examples_and_boundaries
+    assert valid_parentheses(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/stack/valid_parentheses.py:5: in valid_parentheses
+    raise NotImplementedError
+E   NotImplementedError
+__________________ test_examples_and_boundaries[args2-False] ___________________
+tests/stack/test_valid_parentheses.py:23: in test_examples_and_boundaries
+    assert valid_parentheses(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/stack/valid_parentheses.py:5: in valid_parentheses
+    raise NotImplementedError
+E   NotImplementedError
+__________________ test_examples_and_boundaries[args3-False] ___________________
+tests/stack/test_valid_parentheses.py:23: in test_examples_and_boundaries
+    assert valid_parentheses(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/stack/valid_parentheses.py:5: in valid_parentheses
+    raise NotImplementedError
+E   NotImplementedError
+__________________ test_examples_and_boundaries[args4-False] ___________________
+tests/stack/test_valid_parentheses.py:23: in test_examples_and_boundaries
+    assert valid_parentheses(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/stack/valid_parentheses.py:5: in valid_parentheses
+    raise NotImplementedError
+E   NotImplementedError
+___________________ test_examples_and_boundaries[args5-True] ___________________
+tests/stack/test_valid_parentheses.py:23: in test_examples_and_boundaries
+    assert valid_parentheses(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/stack/valid_parentheses.py:5: in valid_parentheses
+    raise NotImplementedError
+E   NotImplementedError
+__________________ test_examples_and_boundaries[args6-False] ___________________
+tests/stack/test_valid_parentheses.py:23: in test_examples_and_boundaries
+    assert valid_parentheses(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/stack/valid_parentheses.py:5: in valid_parentheses
+    raise NotImplementedError
+E   NotImplementedError
+__________________ test_examples_and_boundaries[args7-False] ___________________
+tests/stack/test_valid_parentheses.py:23: in test_examples_and_boundaries
+    assert valid_parentheses(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/stack/valid_parentheses.py:5: in valid_parentheses
+    raise NotImplementedError
+E   NotImplementedError
+=========================== short test summary info ============================
+FAILED tests/sliding_window/test_longest_unique_substring.py::test_examples_and_boundaries[args0-3]
+FAILED tests/sliding_window/test_longest_unique_substring.py::test_examples_and_boundaries[args1-1]
+FAILED tests/sliding_window/test_longest_unique_substring.py::test_examples_and_boundaries[args2-0]
+FAILED tests/sliding_window/test_longest_unique_substring.py::test_examples_and_boundaries[args3-2]
+FAILED tests/sliding_window/test_longest_unique_substring.py::test_examples_and_boundaries[args4-3]
+FAILED tests/sliding_window/test_longest_unique_substring.py::test_examples_and_boundaries[args5-3]
+FAILED tests/sliding_window/test_minimum_window_substring.py::test_examples_and_boundaries[args0-BANC]
+FAILED tests/sliding_window/test_minimum_window_substring.py::test_examples_and_boundaries[args1-]
+FAILED tests/sliding_window/test_minimum_window_substring.py::test_examples_and_boundaries[args2-]
+FAILED tests/sliding_window/test_minimum_window_substring.py::test_examples_and_boundaries[args3-]
+FAILED tests/sliding_window/test_minimum_window_substring.py::test_examples_and_boundaries[args4-aab]
+FAILED tests/sliding_window/test_minimum_window_substring.py::test_examples_and_boundaries[args5-ab]
+FAILED tests/sliding_window/test_minimum_window_substring.py::test_examples_and_boundaries[args6-\xe9\U0001f642]
+FAILED tests/sliding_window/test_minimum_window_substring.py::test_matches_brute_force
+FAILED tests/sliding_window/test_sliding_window_maximum.py::test_examples_and_boundaries[args0-expected0]
+FAILED tests/sliding_window/test_sliding_window_maximum.py::test_examples_and_boundaries[args1-expected1]
+FAILED tests/sliding_window/test_sliding_window_maximum.py::test_examples_and_boundaries[args2-expected2]
+FAILED tests/sliding_window/test_sliding_window_maximum.py::test_examples_and_boundaries[args3-expected3]
+FAILED tests/sliding_window/test_sliding_window_maximum.py::test_examples_and_boundaries[args4-expected4]
+FAILED tests/sliding_window/test_sliding_window_maximum.py::test_invalid_input[args0]
+FAILED tests/sliding_window/test_sliding_window_maximum.py::test_invalid_input[args1]
+FAILED tests/sliding_window/test_sliding_window_maximum.py::test_invalid_input[args2]
+FAILED tests/sliding_window/test_sliding_window_maximum.py::test_invalid_input[args3]
+FAILED tests/sliding_window/test_sliding_window_maximum.py::test_matches_brute_force
+FAILED tests/stack/test_daily_temperatures.py::test_examples_and_boundaries[args0-expected0]
+FAILED tests/stack/test_daily_temperatures.py::test_examples_and_boundaries[args1-expected1]
+FAILED tests/stack/test_daily_temperatures.py::test_examples_and_boundaries[args2-expected2]
+FAILED tests/stack/test_daily_temperatures.py::test_examples_and_boundaries[args3-expected3]
+FAILED tests/stack/test_daily_temperatures.py::test_examples_and_boundaries[args4-expected4]
+FAILED tests/stack/test_largest_rectangle.py::test_examples_and_boundaries[args0-10]
+FAILED tests/stack/test_largest_rectangle.py::test_examples_and_boundaries[args1-0]
+FAILED tests/stack/test_largest_rectangle.py::test_examples_and_boundaries[args2-4]
+FAILED tests/stack/test_largest_rectangle.py::test_examples_and_boundaries[args3-6]
+FAILED tests/stack/test_largest_rectangle.py::test_examples_and_boundaries[args4-6]
+FAILED tests/stack/test_largest_rectangle.py::test_examples_and_boundaries[args5-0]
+FAILED tests/stack/test_largest_rectangle.py::test_invalid_input[args0] - Not...
+FAILED tests/stack/test_largest_rectangle.py::test_matches_brute_force - NotI...
+FAILED tests/stack/test_valid_parentheses.py::test_examples_and_boundaries[args0-True]
+FAILED tests/stack/test_valid_parentheses.py::test_examples_and_boundaries[args1-True]
+FAILED tests/stack/test_valid_parentheses.py::test_examples_and_boundaries[args2-False]
+FAILED tests/stack/test_valid_parentheses.py::test_examples_and_boundaries[args3-False]
+FAILED tests/stack/test_valid_parentheses.py::test_examples_and_boundaries[args4-False]
+FAILED tests/stack/test_valid_parentheses.py::test_examples_and_boundaries[args5-True]
+FAILED tests/stack/test_valid_parentheses.py::test_examples_and_boundaries[args6-False]
+FAILED tests/stack/test_valid_parentheses.py::test_examples_and_boundaries[args7-False]
+45 failed in 0.09s
