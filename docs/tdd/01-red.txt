@@ -1,0 +1,417 @@
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF                     [100%]
+=================================== FAILURES ===================================
+____________________ test_examples_and_boundaries[args0-6] _____________________
+tests/arrays/test_maximum_subarray.py:20: in test_examples_and_boundaries
+    assert maximum_subarray(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/arrays/maximum_subarray.py:5: in maximum_subarray
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args1--2] ____________________
+tests/arrays/test_maximum_subarray.py:20: in test_examples_and_boundaries
+    assert maximum_subarray(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/arrays/maximum_subarray.py:5: in maximum_subarray
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args2-5] _____________________
+tests/arrays/test_maximum_subarray.py:20: in test_examples_and_boundaries
+    assert maximum_subarray(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/arrays/maximum_subarray.py:5: in maximum_subarray
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args3-0] _____________________
+tests/arrays/test_maximum_subarray.py:20: in test_examples_and_boundaries
+    assert maximum_subarray(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/arrays/maximum_subarray.py:5: in maximum_subarray
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args4-2] _____________________
+tests/arrays/test_maximum_subarray.py:20: in test_examples_and_boundaries
+    assert maximum_subarray(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/arrays/maximum_subarray.py:5: in maximum_subarray
+    raise NotImplementedError
+E   NotImplementedError
+__________________________ test_invalid_input[args0] ___________________________
+tests/arrays/test_maximum_subarray.py:27: in test_invalid_input
+    maximum_subarray(*args)
+src/python_dsa/arrays/maximum_subarray.py:5: in maximum_subarray
+    raise NotImplementedError
+E   NotImplementedError
+___________________________ test_matches_brute_force ___________________________
+tests/arrays/test_maximum_subarray.py:36: in test_matches_brute_force
+    assert maximum_subarray(list(values)) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/arrays/maximum_subarray.py:5: in maximum_subarray
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args0-expected0] _________________
+tests/arrays/test_product_except_self.py:21: in test_examples_and_boundaries
+    assert product_except_self(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/arrays/product_except_self.py:5: in product_except_self
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args1-expected1] _________________
+tests/arrays/test_product_except_self.py:21: in test_examples_and_boundaries
+    assert product_except_self(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/arrays/product_except_self.py:5: in product_except_self
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args2-expected2] _________________
+tests/arrays/test_product_except_self.py:21: in test_examples_and_boundaries
+    assert product_except_self(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/arrays/product_except_self.py:5: in product_except_self
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args3-expected3] _________________
+tests/arrays/test_product_except_self.py:21: in test_examples_and_boundaries
+    assert product_except_self(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/arrays/product_except_self.py:5: in product_except_self
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args4-expected4] _________________
+tests/arrays/test_product_except_self.py:21: in test_examples_and_boundaries
+    assert product_except_self(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/arrays/product_except_self.py:5: in product_except_self
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args5-expected5] _________________
+tests/arrays/test_product_except_self.py:21: in test_examples_and_boundaries
+    assert product_except_self(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/arrays/product_except_self.py:5: in product_except_self
+    raise NotImplementedError
+E   NotImplementedError
+___________________________ test_matches_brute_force ___________________________
+tests/arrays/test_product_except_self.py:32: in test_matches_brute_force
+    assert product_except_self(list(values)) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/arrays/product_except_self.py:5: in product_except_self
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args0-6] _____________________
+tests/arrays/test_trapping_rain_water.py:20: in test_examples_and_boundaries
+    assert trapping_rain_water(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/arrays/trapping_rain_water.py:5: in trapping_rain_water
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args1-9] _____________________
+tests/arrays/test_trapping_rain_water.py:20: in test_examples_and_boundaries
+    assert trapping_rain_water(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/arrays/trapping_rain_water.py:5: in trapping_rain_water
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args2-0] _____________________
+tests/arrays/test_trapping_rain_water.py:20: in test_examples_and_boundaries
+    assert trapping_rain_water(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/arrays/trapping_rain_water.py:5: in trapping_rain_water
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args3-0] _____________________
+tests/arrays/test_trapping_rain_water.py:20: in test_examples_and_boundaries
+    assert trapping_rain_water(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/arrays/trapping_rain_water.py:5: in trapping_rain_water
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args4-0] _____________________
+tests/arrays/test_trapping_rain_water.py:20: in test_examples_and_boundaries
+    assert trapping_rain_water(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/arrays/trapping_rain_water.py:5: in trapping_rain_water
+    raise NotImplementedError
+E   NotImplementedError
+__________________________ test_invalid_input[args0] ___________________________
+tests/arrays/test_trapping_rain_water.py:27: in test_invalid_input
+    trapping_rain_water(*args)
+src/python_dsa/arrays/trapping_rain_water.py:5: in trapping_rain_water
+    raise NotImplementedError
+E   NotImplementedError
+___________________________ test_matches_brute_force ___________________________
+tests/arrays/test_trapping_rain_water.py:38: in test_matches_brute_force
+    assert trapping_rain_water(list(values)) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/arrays/trapping_rain_water.py:5: in trapping_rain_water
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args0-expected0] _________________
+tests/hash_maps/test_group_anagrams.py:23: in test_examples_and_boundaries
+    assert group_anagrams(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/hash_maps/group_anagrams.py:5: in group_anagrams
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args1-expected1] _________________
+tests/hash_maps/test_group_anagrams.py:23: in test_examples_and_boundaries
+    assert group_anagrams(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/hash_maps/group_anagrams.py:5: in group_anagrams
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args2-expected2] _________________
+tests/hash_maps/test_group_anagrams.py:23: in test_examples_and_boundaries
+    assert group_anagrams(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/hash_maps/group_anagrams.py:5: in group_anagrams
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args3-expected3] _________________
+tests/hash_maps/test_group_anagrams.py:23: in test_examples_and_boundaries
+    assert group_anagrams(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/hash_maps/group_anagrams.py:5: in group_anagrams
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args4-expected4] _________________
+tests/hash_maps/test_group_anagrams.py:23: in test_examples_and_boundaries
+    assert group_anagrams(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/hash_maps/group_anagrams.py:5: in group_anagrams
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args0-expected0] _________________
+tests/hash_maps/test_two_sum.py:21: in test_examples_and_boundaries
+    assert two_sum(*args) == expected
+           ^^^^^^^^^^^^^^
+src/python_dsa/hash_maps/two_sum.py:5: in two_sum
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args1-expected1] _________________
+tests/hash_maps/test_two_sum.py:21: in test_examples_and_boundaries
+    assert two_sum(*args) == expected
+           ^^^^^^^^^^^^^^
+src/python_dsa/hash_maps/two_sum.py:5: in two_sum
+    raise NotImplementedError
+E   NotImplementedError
+___________________ test_examples_and_boundaries[args2-None] ___________________
+tests/hash_maps/test_two_sum.py:21: in test_examples_and_boundaries
+    assert two_sum(*args) == expected
+           ^^^^^^^^^^^^^^
+src/python_dsa/hash_maps/two_sum.py:5: in two_sum
+    raise NotImplementedError
+E   NotImplementedError
+___________________ test_examples_and_boundaries[args3-None] ___________________
+tests/hash_maps/test_two_sum.py:21: in test_examples_and_boundaries
+    assert two_sum(*args) == expected
+           ^^^^^^^^^^^^^^
+src/python_dsa/hash_maps/two_sum.py:5: in two_sum
+    raise NotImplementedError
+E   NotImplementedError
+________________ test_examples_and_boundaries[args4-expected4] _________________
+tests/hash_maps/test_two_sum.py:21: in test_examples_and_boundaries
+    assert two_sum(*args) == expected
+           ^^^^^^^^^^^^^^
+src/python_dsa/hash_maps/two_sum.py:5: in two_sum
+    raise NotImplementedError
+E   NotImplementedError
+___________________ test_examples_and_boundaries[args5-None] ___________________
+tests/hash_maps/test_two_sum.py:21: in test_examples_and_boundaries
+    assert two_sum(*args) == expected
+           ^^^^^^^^^^^^^^
+src/python_dsa/hash_maps/two_sum.py:5: in two_sum
+    raise NotImplementedError
+E   NotImplementedError
+___________________ test_examples_and_boundaries[args0-True] ___________________
+tests/hash_maps/test_valid_anagram.py:21: in test_examples_and_boundaries
+    assert valid_anagram(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/hash_maps/valid_anagram.py:5: in valid_anagram
+    raise NotImplementedError
+E   NotImplementedError
+__________________ test_examples_and_boundaries[args1-False] ___________________
+tests/hash_maps/test_valid_anagram.py:21: in test_examples_and_boundaries
+    assert valid_anagram(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/hash_maps/valid_anagram.py:5: in valid_anagram
+    raise NotImplementedError
+E   NotImplementedError
+___________________ test_examples_and_boundaries[args2-True] ___________________
+tests/hash_maps/test_valid_anagram.py:21: in test_examples_and_boundaries
+    assert valid_anagram(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/hash_maps/valid_anagram.py:5: in valid_anagram
+    raise NotImplementedError
+E   NotImplementedError
+___________________ test_examples_and_boundaries[args3-True] ___________________
+tests/hash_maps/test_valid_anagram.py:21: in test_examples_and_boundaries
+    assert valid_anagram(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/hash_maps/valid_anagram.py:5: in valid_anagram
+    raise NotImplementedError
+E   NotImplementedError
+__________________ test_examples_and_boundaries[args4-False] ___________________
+tests/hash_maps/test_valid_anagram.py:21: in test_examples_and_boundaries
+    assert valid_anagram(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/hash_maps/valid_anagram.py:5: in valid_anagram
+    raise NotImplementedError
+E   NotImplementedError
+__________________ test_examples_and_boundaries[args5-False] ___________________
+tests/hash_maps/test_valid_anagram.py:21: in test_examples_and_boundaries
+    assert valid_anagram(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/hash_maps/valid_anagram.py:5: in valid_anagram
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args0-49] ____________________
+tests/two_pointers/test_container_with_most_water.py:21: in test_examples_and_boundaries
+    assert container_with_most_water(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/two_pointers/container_with_most_water.py:5: in container_with_most_water
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args1-0] _____________________
+tests/two_pointers/test_container_with_most_water.py:21: in test_examples_and_boundaries
+    assert container_with_most_water(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/two_pointers/container_with_most_water.py:5: in container_with_most_water
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args2-0] _____________________
+tests/two_pointers/test_container_with_most_water.py:21: in test_examples_and_boundaries
+    assert container_with_most_water(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/two_pointers/container_with_most_water.py:5: in container_with_most_water
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args3-1] _____________________
+tests/two_pointers/test_container_with_most_water.py:21: in test_examples_and_boundaries
+    assert container_with_most_water(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/two_pointers/container_with_most_water.py:5: in container_with_most_water
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args4-0] _____________________
+tests/two_pointers/test_container_with_most_water.py:21: in test_examples_and_boundaries
+    assert container_with_most_water(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/two_pointers/container_with_most_water.py:5: in container_with_most_water
+    raise NotImplementedError
+E   NotImplementedError
+____________________ test_examples_and_boundaries[args5-16] ____________________
+tests/two_pointers/test_container_with_most_water.py:21: in test_examples_and_boundaries
+    assert container_with_most_water(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/two_pointers/container_with_most_water.py:5: in container_with_most_water
+    raise NotImplementedError
+E   NotImplementedError
+__________________________ test_invalid_input[args0] ___________________________
+tests/two_pointers/test_container_with_most_water.py:28: in test_invalid_input
+    container_with_most_water(*args)
+src/python_dsa/two_pointers/container_with_most_water.py:5: in container_with_most_water
+    raise NotImplementedError
+E   NotImplementedError
+___________________________ test_matches_brute_force ___________________________
+tests/two_pointers/test_container_with_most_water.py:44: in test_matches_brute_force
+    assert container_with_most_water(list(values)) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/two_pointers/container_with_most_water.py:5: in container_with_most_water
+    raise NotImplementedError
+E   NotImplementedError
+___________________ test_examples_and_boundaries[args0-True] ___________________
+tests/two_pointers/test_valid_palindrome.py:21: in test_examples_and_boundaries
+    assert valid_palindrome(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/two_pointers/valid_palindrome.py:5: in valid_palindrome
+    raise NotImplementedError
+E   NotImplementedError
+__________________ test_examples_and_boundaries[args1-False] ___________________
+tests/two_pointers/test_valid_palindrome.py:21: in test_examples_and_boundaries
+    assert valid_palindrome(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/two_pointers/valid_palindrome.py:5: in valid_palindrome
+    raise NotImplementedError
+E   NotImplementedError
+___________________ test_examples_and_boundaries[args2-True] ___________________
+tests/two_pointers/test_valid_palindrome.py:21: in test_examples_and_boundaries
+    assert valid_palindrome(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/two_pointers/valid_palindrome.py:5: in valid_palindrome
+    raise NotImplementedError
+E   NotImplementedError
+___________________ test_examples_and_boundaries[args3-True] ___________________
+tests/two_pointers/test_valid_palindrome.py:21: in test_examples_and_boundaries
+    assert valid_palindrome(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/two_pointers/valid_palindrome.py:5: in valid_palindrome
+    raise NotImplementedError
+E   NotImplementedError
+___________________ test_examples_and_boundaries[args4-True] ___________________
+tests/two_pointers/test_valid_palindrome.py:21: in test_examples_and_boundaries
+    assert valid_palindrome(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/two_pointers/valid_palindrome.py:5: in valid_palindrome
+    raise NotImplementedError
+E   NotImplementedError
+__________________ test_examples_and_boundaries[args5-False] ___________________
+tests/two_pointers/test_valid_palindrome.py:21: in test_examples_and_boundaries
+    assert valid_palindrome(*args) == expected
+           ^^^^^^^^^^^^^^^^^^^^^^^
+src/python_dsa/two_pointers/valid_palindrome.py:5: in valid_palindrome
+    raise NotImplementedError
+E   NotImplementedError
+=========================== short test summary info ============================
+FAILED tests/arrays/test_maximum_subarray.py::test_examples_and_boundaries[args0-6]
+FAILED tests/arrays/test_maximum_subarray.py::test_examples_and_boundaries[args1--2]
+FAILED tests/arrays/test_maximum_subarray.py::test_examples_and_boundaries[args2-5]
+FAILED tests/arrays/test_maximum_subarray.py::test_examples_and_boundaries[args3-0]
+FAILED tests/arrays/test_maximum_subarray.py::test_examples_and_boundaries[args4-2]
+FAILED tests/arrays/test_maximum_subarray.py::test_invalid_input[args0] - Not...
+FAILED tests/arrays/test_maximum_subarray.py::test_matches_brute_force - NotI...
+FAILED tests/arrays/test_product_except_self.py::test_examples_and_boundaries[args0-expected0]
+FAILED tests/arrays/test_product_except_self.py::test_examples_and_boundaries[args1-expected1]
+FAILED tests/arrays/test_product_except_self.py::test_examples_and_boundaries[args2-expected2]
+FAILED tests/arrays/test_product_except_self.py::test_examples_and_boundaries[args3-expected3]
+FAILED tests/arrays/test_product_except_self.py::test_examples_and_boundaries[args4-expected4]
+FAILED tests/arrays/test_product_except_self.py::test_examples_and_boundaries[args5-expected5]
+FAILED tests/arrays/test_product_except_self.py::test_matches_brute_force - N...
+FAILED tests/arrays/test_trapping_rain_water.py::test_examples_and_boundaries[args0-6]
+FAILED tests/arrays/test_trapping_rain_water.py::test_examples_and_boundaries[args1-9]
+FAILED tests/arrays/test_trapping_rain_water.py::test_examples_and_boundaries[args2-0]
+FAILED tests/arrays/test_trapping_rain_water.py::test_examples_and_boundaries[args3-0]
+FAILED tests/arrays/test_trapping_rain_water.py::test_examples_and_boundaries[args4-0]
+FAILED tests/arrays/test_trapping_rain_water.py::test_invalid_input[args0] - ...
+FAILED tests/arrays/test_trapping_rain_water.py::test_matches_brute_force - N...
+FAILED tests/hash_maps/test_group_anagrams.py::test_examples_and_boundaries[args0-expected0]
+FAILED tests/hash_maps/test_group_anagrams.py::test_examples_and_boundaries[args1-expected1]
+FAILED tests/hash_maps/test_group_anagrams.py::test_examples_and_boundaries[args2-expected2]
+FAILED tests/hash_maps/test_group_anagrams.py::test_examples_and_boundaries[args3-expected3]
+FAILED tests/hash_maps/test_group_anagrams.py::test_examples_and_boundaries[args4-expected4]
+FAILED tests/hash_maps/test_two_sum.py::test_examples_and_boundaries[args0-expected0]
+FAILED tests/hash_maps/test_two_sum.py::test_examples_and_boundaries[args1-expected1]
+FAILED tests/hash_maps/test_two_sum.py::test_examples_and_boundaries[args2-None]
+FAILED tests/hash_maps/test_two_sum.py::test_examples_and_boundaries[args3-None]
+FAILED tests/hash_maps/test_two_sum.py::test_examples_and_boundaries[args4-expected4]
+FAILED tests/hash_maps/test_two_sum.py::test_examples_and_boundaries[args5-None]
+FAILED tests/hash_maps/test_valid_anagram.py::test_examples_and_boundaries[args0-True]
+FAILED tests/hash_maps/test_valid_anagram.py::test_examples_and_boundaries[args1-False]
+FAILED tests/hash_maps/test_valid_anagram.py::test_examples_and_boundaries[args2-True]
+FAILED tests/hash_maps/test_valid_anagram.py::test_examples_and_boundaries[args3-True]
+FAILED tests/hash_maps/test_valid_anagram.py::test_examples_and_boundaries[args4-False]
+FAILED tests/hash_maps/test_valid_anagram.py::test_examples_and_boundaries[args5-False]
+FAILED tests/two_pointers/test_container_with_most_water.py::test_examples_and_boundaries[args0-49]
+FAILED tests/two_pointers/test_container_with_most_water.py::test_examples_and_boundaries[args1-0]
+FAILED tests/two_pointers/test_container_with_most_water.py::test_examples_and_boundaries[args2-0]
+FAILED tests/two_pointers/test_container_with_most_water.py::test_examples_and_boundaries[args3-1]
+FAILED tests/two_pointers/test_container_with_most_water.py::test_examples_and_boundaries[args4-0]
+FAILED tests/two_pointers/test_container_with_most_water.py::test_examples_and_boundaries[args5-16]
+FAILED tests/two_pointers/test_container_with_most_water.py::test_invalid_input[args0]
+FAILED tests/two_pointers/test_container_with_most_water.py::test_matches_brute_force
+FAILED tests/two_pointers/test_valid_palindrome.py::test_examples_and_boundaries[args0-True]
+FAILED tests/two_pointers/test_valid_palindrome.py::test_examples_and_boundaries[args1-False]
+FAILED tests/two_pointers/test_valid_palindrome.py::test_examples_and_boundaries[args2-True]
+FAILED tests/two_pointers/test_valid_palindrome.py::test_examples_and_boundaries[args3-True]
+FAILED tests/two_pointers/test_valid_palindrome.py::test_examples_and_boundaries[args4-True]
+FAILED tests/two_pointers/test_valid_palindrome.py::test_examples_and_boundaries[args5-False]
+52 failed in 0.11s
