@@ -14,9 +14,10 @@ def test_merges_reusing_nodes_and_left_first_on_ties(left_values, right_values):
     for chain in (left, right):
         for a, b in zip(chain, chain[1:], strict=False):
             a.next = b
-    expected = sorted(left + right, key=lambda node: node.val)
+    expected = sorted(((node, node.val) for node in left + right), key=lambda pair: pair[1])
     head = merge_sorted_lists(left[0] if left else None, right[0] if right else None)
-    for node in expected:
+    for node, original_value in expected:
         assert head is node
+        assert head.val == original_value
         head = head.next
     assert head is None
