@@ -46,20 +46,20 @@ explicitly documented (the linked-list exercises reuse nodes).
 Difficulty labels follow the linked canonical problems; this repository defines
 its own explicit contracts, which can differ on empty and invalid inputs.
 
-**Implementation progress: 0/30** — 9 Easy, 17 Medium, 4 Hard.
+**Implementation progress: 8/30** — 9 Easy, 17 Medium, 4 Hard.
 
 ## Problem index
 
 | # | Problem | Category | Difficulty | Status |
 | --- | --- | --- | --- | --- |
-| 01 | [Maximum Subarray](problems/arrays/maximum_subarray.md) | Arrays | Medium | Planned |
-| 02 | [Product Except Self](problems/arrays/product_except_self.md) | Arrays | Medium | Planned |
-| 03 | [Trapping Rain Water](problems/arrays/trapping_rain_water.md) | Arrays | Hard | Planned |
-| 04 | [Two Sum](problems/hash_maps/two_sum.md) | Hash Maps | Easy | Planned |
-| 05 | [Valid Anagram](problems/hash_maps/valid_anagram.md) | Hash Maps | Easy | Planned |
-| 06 | [Group Anagrams](problems/hash_maps/group_anagrams.md) | Hash Maps | Medium | Planned |
-| 07 | [Valid Palindrome](problems/two_pointers/valid_palindrome.md) | Two Pointers | Easy | Planned |
-| 08 | [Container With Most Water](problems/two_pointers/container_with_most_water.md) | Two Pointers | Medium | Planned |
+| 01 | [Maximum Subarray](problems/arrays/maximum_subarray.md) | Arrays | Medium | Complete |
+| 02 | [Product Except Self](problems/arrays/product_except_self.md) | Arrays | Medium | Complete |
+| 03 | [Trapping Rain Water](problems/arrays/trapping_rain_water.md) | Arrays | Hard | Complete |
+| 04 | [Two Sum](problems/hash_maps/two_sum.md) | Hash Maps | Easy | Complete |
+| 05 | [Valid Anagram](problems/hash_maps/valid_anagram.md) | Hash Maps | Easy | Complete |
+| 06 | [Group Anagrams](problems/hash_maps/group_anagrams.md) | Hash Maps | Medium | Complete |
+| 07 | [Valid Palindrome](problems/two_pointers/valid_palindrome.md) | Two Pointers | Easy | Complete |
+| 08 | [Container With Most Water](problems/two_pointers/container_with_most_water.md) | Two Pointers | Medium | Complete |
 | 09 | [Longest Unique Substring](problems/sliding_window/longest_unique_substring.md) | Sliding Window | Medium | Planned |
 | 10 | [Minimum Window Substring](problems/sliding_window/minimum_window_substring.md) | Sliding Window | Hard | Planned |
 | 11 | [Sliding Window Maximum](problems/sliding_window/sliding_window_maximum.md) | Sliding Window | Hard | Planned |
