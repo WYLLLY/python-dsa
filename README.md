@@ -99,7 +99,7 @@ docs/verification.md                  # final checks and scope
 Each implementation batch starts with importable function signatures that raise
 `NotImplementedError`. Behavioral tests are executed and their failures recorded
 before solutions are written. Small test commits are followed by implementation
-commits; Ruff formatting is the refactor step. See [the TDD record](docs/tdd/README.md).
+commits; Ruff formatting is the refactor step. See [the TDD record](docs/tdd/README.md) and [verification report](docs/verification.md).
 GitHub Actions runs pytest, Ruff lint/format and mypy on Python 3.12, 3.13 and 3.14.
 No database, web service or external API is part of this project.
 

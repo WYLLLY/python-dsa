@@ -18,7 +18,7 @@ Sorting a word produces a canonical key for its multiset of characters. Append e
 
 ## Complexity
 
-Let W be the number of words and L the longest word. **Time:** O(W · L log L) as an upper bound (plus O(W) for empty words). **Auxiliary space:** O(W · L) for keys and references in groups, including the O(W) output references.
+Let W be the number of words and L the longest word. **Time:** O(W · L log L) as an upper bound (plus O(W) for empty words). **Auxiliary space:** O(W · (L + 1)) for keys and references in groups, including the O(W) output references.
 
 Complexities count arithmetic and hash operations as constant time; Python's
 arbitrary-size integer costs can grow with operand size. Input is not modified
