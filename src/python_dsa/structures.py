@@ -4,6 +4,8 @@ Nodes use identity equality. Algorithms assume finite acyclic structures;
 merge_sorted_lists additionally requires the two input chains to be disjoint.
 """
 
+from __future__ import annotations
+
 from dataclasses import dataclass
 
 

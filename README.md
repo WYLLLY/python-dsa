@@ -46,7 +46,7 @@ explicitly documented (the linked-list exercises reuse nodes).
 Difficulty labels follow the linked canonical problems; this repository defines
 its own explicit contracts, which can differ on empty and invalid inputs.
 
-**Implementation progress: 14/30** — 9 Easy, 17 Medium, 4 Hard.
+**Implementation progress: 21/30** — 9 Easy, 17 Medium, 4 Hard.
 
 ## Problem index
 
@@ -66,13 +66,13 @@ its own explicit contracts, which can differ on empty and invalid inputs.
 | 12 | [Valid Parentheses](problems/stack/valid_parentheses.md) | Stack | Easy | Complete |
 | 13 | [Daily Temperatures](problems/stack/daily_temperatures.md) | Stack | Medium | Complete |
 | 14 | [Largest Rectangle in Histogram](problems/stack/largest_rectangle.md) | Stack | Hard | Complete |
-| 15 | [Reverse Linked List](problems/linked_lists/reverse_list.md) | Linked Lists | Easy | Planned |
-| 16 | [Merge Two Sorted Lists](problems/linked_lists/merge_sorted_lists.md) | Linked Lists | Easy | Planned |
-| 17 | [Binary Search](problems/binary_search/binary_search.md) | Binary Search | Easy | Planned |
-| 18 | [Search Rotated Sorted Array](problems/binary_search/search_rotated.md) | Binary Search | Medium | Planned |
-| 19 | [Maximum Tree Depth](problems/trees/maximum_depth.md) | Trees | Easy | Planned |
-| 20 | [Validate Binary Search Tree](problems/trees/validate_bst.md) | Trees | Medium | Planned |
-| 21 | [Binary Tree Level Order](problems/trees/level_order.md) | Trees | Medium | Planned |
+| 15 | [Reverse Linked List](problems/linked_lists/reverse_list.md) | Linked Lists | Easy | Complete |
+| 16 | [Merge Two Sorted Lists](problems/linked_lists/merge_sorted_lists.md) | Linked Lists | Easy | Complete |
+| 17 | [Binary Search](problems/binary_search/binary_search.md) | Binary Search | Easy | Complete |
+| 18 | [Search Rotated Sorted Array](problems/binary_search/search_rotated.md) | Binary Search | Medium | Complete |
+| 19 | [Maximum Tree Depth](problems/trees/maximum_depth.md) | Trees | Easy | Complete |
+| 20 | [Validate Binary Search Tree](problems/trees/validate_bst.md) | Trees | Medium | Complete |
+| 21 | [Binary Tree Level Order](problems/trees/level_order.md) | Trees | Medium | Complete |
 | 22 | [Number of Islands](problems/graphs/number_of_islands.md) | Graphs | Medium | Planned |
 | 23 | [Course Schedule](problems/graphs/course_schedule.md) | Graphs | Medium | Planned |
 | 24 | [Kth Largest Element](problems/heaps/kth_largest.md) | Heaps | Medium | Planned |

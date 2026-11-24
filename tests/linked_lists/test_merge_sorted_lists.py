@@ -12,7 +12,7 @@ def test_merges_reusing_nodes_and_left_first_on_ties(left_values, right_values):
     left = [ListNode(value) for value in left_values]
     right = [ListNode(value) for value in right_values]
     for chain in (left, right):
-        for a, b in zip(chain, chain[1:]):
+        for a, b in zip(chain, chain[1:], strict=False):
             a.next = b
     expected = sorted(left + right, key=lambda node: node.val)
     head = merge_sorted_lists(left[0] if left else None, right[0] if right else None)
