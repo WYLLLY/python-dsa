@@ -46,7 +46,7 @@ explicitly documented (the linked-list exercises reuse nodes).
 Difficulty labels follow the linked canonical problems; this repository defines
 its own explicit contracts, which can differ on empty and invalid inputs.
 
-**Implementation progress: 8/30** — 9 Easy, 17 Medium, 4 Hard.
+**Implementation progress: 14/30** — 9 Easy, 17 Medium, 4 Hard.
 
 ## Problem index
 
@@ -60,12 +60,12 @@ its own explicit contracts, which can differ on empty and invalid inputs.
 | 06 | [Group Anagrams](problems/hash_maps/group_anagrams.md) | Hash Maps | Medium | Complete |
 | 07 | [Valid Palindrome](problems/two_pointers/valid_palindrome.md) | Two Pointers | Easy | Complete |
 | 08 | [Container With Most Water](problems/two_pointers/container_with_most_water.md) | Two Pointers | Medium | Complete |
-| 09 | [Longest Unique Substring](problems/sliding_window/longest_unique_substring.md) | Sliding Window | Medium | Planned |
-| 10 | [Minimum Window Substring](problems/sliding_window/minimum_window_substring.md) | Sliding Window | Hard | Planned |
-| 11 | [Sliding Window Maximum](problems/sliding_window/sliding_window_maximum.md) | Sliding Window | Hard | Planned |
-| 12 | [Valid Parentheses](problems/stack/valid_parentheses.md) | Stack | Easy | Planned |
-| 13 | [Daily Temperatures](problems/stack/daily_temperatures.md) | Stack | Medium | Planned |
-| 14 | [Largest Rectangle in Histogram](problems/stack/largest_rectangle.md) | Stack | Hard | Planned |
+| 09 | [Longest Unique Substring](problems/sliding_window/longest_unique_substring.md) | Sliding Window | Medium | Complete |
+| 10 | [Minimum Window Substring](problems/sliding_window/minimum_window_substring.md) | Sliding Window | Hard | Complete |
+| 11 | [Sliding Window Maximum](problems/sliding_window/sliding_window_maximum.md) | Sliding Window | Hard | Complete |
+| 12 | [Valid Parentheses](problems/stack/valid_parentheses.md) | Stack | Easy | Complete |
+| 13 | [Daily Temperatures](problems/stack/daily_temperatures.md) | Stack | Medium | Complete |
+| 14 | [Largest Rectangle in Histogram](problems/stack/largest_rectangle.md) | Stack | Hard | Complete |
 | 15 | [Reverse Linked List](problems/linked_lists/reverse_list.md) | Linked Lists | Easy | Planned |
 | 16 | [Merge Two Sorted Lists](problems/linked_lists/merge_sorted_lists.md) | Linked Lists | Easy | Planned |
 | 17 | [Binary Search](problems/binary_search/binary_search.md) | Binary Search | Easy | Planned |
